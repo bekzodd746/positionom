@@ -1,0 +1,30 @@
+h1{
+    background-color: black;
+    color: white;
+    width: 879px;
+    height: 127px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    margin: auto;
+    text-shadow: 10px 10px 10px;
+    box-shadow: black 10px 10px 10px;
+}
+.box3 div{
+    background-color: brown;
+    color: white;
+    width: 104px;
+    height: 104px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -941px;
+    margin-left: 173px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
